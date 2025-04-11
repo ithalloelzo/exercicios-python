@@ -1,3 +1,7 @@
+
+#Receber os batimentos por minuto (bpm) de um usuário
+#Avaliar se estão acima, abaixo ou dentro da faixa recomendada
+
 idade = int(input('Informe sua idade: '))
 
 if idade <= 2:
